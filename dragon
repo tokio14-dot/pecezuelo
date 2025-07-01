@@ -1,4 +1,7 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qge31yAWAFb5S48UEeuzt9UEqs5.jpg",01
+https://archive.org/download/la-leyenda-del-dragon-01/La%20Leyenda%20Del%20Drag%C3%B3n%2001.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qge31yAWAFb5S48UEeuzt9UEqs5.jpg",02
 https://archive.org/download/la-leyenda-del-dragon-01/La%20Leyenda%20Del%20Drag%C3%B3n%2002.ia.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qge31yAWAFb5S48UEeuzt9UEqs5.jpg",03
