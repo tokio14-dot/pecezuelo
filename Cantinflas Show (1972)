@@ -1,4 +1,6 @@
 #EXTM3U
+
+#EXTGRP;TEMPORADA 1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nAsbnXKiAI6XBAvUdP79SSEslRX.jpg", S01E01 - Acapulco
 https://archive.org/download/cantinflasshow/S1E01-%20Acapulco.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nAsbnXKiAI6XBAvUdP79SSEslRX.jpg", S01E02 - Adopte un árbol
@@ -104,7 +106,123 @@ https://archive.org/download/cantinflasshow/S1E51-%20Los%20Toros.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nAsbnXKiAI6XBAvUdP79SSEslRX.jpg", S01E52 - Velazquez
 https://archive.org/download/cantinflasshow/S1E52-%20Velazquez.mp4
 
+#EXTGRP;TEMPORADA 2
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iFFfskrbD6FqTYr9iN1T63l17eE.jpg", S02E01 - Alexander Graham Bell
+https://archive.org/download/amigoandfriends/S2E01-%20Alexander%20Graham%20Bell.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iFFfskrbD6FqTYr9iN1T63l17eE.jpg", S02E02 - El Amazonas
+https://archive.org/download/amigoandfriends/S2E02-%20El%20Amazonas.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iFFfskrbD6FqTYr9iN1T63l17eE.jpg", S02E03 - Américo Vespucio
+https://archive.org/download/amigoandfriends/S2E03-%20Am%C3%A9rico%20Vespucio.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iFFfskrbD6FqTYr9iN1T63l17eE.jpg", S02E04 - Energía Atómica
+https://archive.org/download/amigoandfriends/S2E04-%20Energ%C3%ADa%20At%C3%B3mica.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iFFfskrbD6FqTYr9iN1T63l17eE.jpg", S02E05 - Béisbol
+https://archive.org/download/amigoandfriends/S2E05-%20B%C3%A9isbol.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iFFfskrbD6FqTYr9iN1T63l17eE.jpg", S02E06 - Canales de Venecia
+https://archive.org/download/amigoandfriends/S2E06-%20Canales%20de%20Venecia.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iFFfskrbD6FqTYr9iN1T63l17eE.jpg", S02E07 - Capitán Cook
+https://archive.org/download/amigoandfriends/S2E07-%20Capit%C3%A1n%20Cook.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iFFfskrbD6FqTYr9iN1T63l17eE.jpg", S02E08 - El Coliseo
+https://archive.org/download/amigoandfriends/S2E08-%20El%20Coliseo.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iFFfskrbD6FqTYr9iN1T63l17eE.jpg", S02E09 - Las Constelaciones
+https://archive.org/download/amigoandfriends/S2E09-%20Las%20Constelaciones.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iFFfskrbD6FqTYr9iN1T63l17eE.jpg", S02E10 - Daniel Boone
+https://archive.org/download/amigoandfriends/S2E10-%20Daniel%20Boone.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iFFfskrbD6FqTYr9iN1T63l17eE.jpg", S02E11 - Don Quijote
+https://archive.org/download/amigoandfriends/S2E11-%20Don%20Quijote.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iFFfskrbD6FqTYr9iN1T63l17eE.jpg", S02E12 - La Torre Eiffel
+https://archive.org/download/amigoandfriends/S2E12-%20La%20Torre%20Eiffel.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iFFfskrbD6FqTYr9iN1T63l17eE.jpg", S02E13 - Ely Whitney
+https://archive.org/download/amigoandfriends/S2E13-%20Ely%20Withney.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iFFfskrbD6FqTYr9iN1T63l17eE.jpg", S02E14 - El Vaticano
+https://archive.org/download/amigoandfriends/S2E14-%20El%20Vaticano.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iFFfskrbD6FqTYr9iN1T63l17eE.jpg", S02E15 - Padre Junipero Sierra
+https://archive.org/download/amigoandfriends/S2E15-%20Padre%20Junipero%20Sierra.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iFFfskrbD6FqTYr9iN1T63l17eE.jpg", S02E16 - El Rugby
+https://archive.org/download/amigoandfriends/S2E16-%20El%20Rugby.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iFFfskrbD6FqTYr9iN1T63l17eE.jpg", S02E17 - Gengis Khan
+https://archive.org/download/amigoandfriends/S2E17-%20Gengis%20Khan.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iFFfskrbD6FqTYr9iN1T63l17eE.jpg", S02E18 - George Washington Carver
+https://archive.org/download/amigoandfriends/S2E18-%20George%20Washington%20Carver.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iFFfskrbD6FqTYr9iN1T63l17eE.jpg", S02E19 - El Gran Cañón del Colorado
+https://archive.org/download/amigoandfriends/S2E19-%20El%20Gran%20Ca%C3%B1on%20del%20Colorado.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iFFfskrbD6FqTYr9iN1T63l17eE.jpg", S02E20 - La Muralla China
+https://archive.org/download/amigoandfriends/S2E20-%20La%20Muralla%20China.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iFFfskrbD6FqTYr9iN1T63l17eE.jpg", S02E21 - El Golf
+https://archive.org/download/amigoandfriends/S2E21-%20El%20Golf.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iFFfskrbD6FqTYr9iN1T63l17eE.jpg", S02E22 - Henry Ford
+https://archive.org/download/amigoandfriends/S2E22-%20Henry%20Ford.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iFFfskrbD6FqTYr9iN1T63l17eE.jpg", S02E23 - Línea Internacional del Tiempo
+https://archive.org/download/amigoandfriends/S2E23-%20Linea%20Internacional%20del%20Tiempo.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iFFfskrbD6FqTYr9iN1T63l17eE.jpg", S02E24 - James Watt
+https://archive.org/download/amigoandfriends/S2E24-%20James%20Watt.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iFFfskrbD6FqTYr9iN1T63l17eE.jpg", S02E25 - Julio César
+https://archive.org/download/amigoandfriends/S2E25-%20Julio%20Cesar.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iFFfskrbD6FqTYr9iN1T63l17eE.jpg", S02E26 - King Tut
+https://archive.org/download/amigoandfriends/S2E26-%20King%20Tut.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iFFfskrbD6FqTYr9iN1T63l17eE.jpg", S02E27 - Lewis y Clark
+https://archive.org/download/amigoandfriends/S2E27-%20Lewis%20y%20Clark.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iFFfskrbD6FqTYr9iN1T63l17eE.jpg", S02E28 - La Atlántida
+https://archive.org/download/amigoandfriends/S2E28-%20La%20Atlantida.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iFFfskrbD6FqTYr9iN1T63l17eE.jpg", S02E29 - Luther Burbank
+https://archive.org/download/amigoandfriends/S2E29-%20Luther%20Burbank.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iFFfskrbD6FqTYr9iN1T63l17eE.jpg", S02E30 - Madame Curie
+https://archive.org/download/amigoandfriends/S2E30-%20Madame%20Curie.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iFFfskrbD6FqTYr9iN1T63l17eE.jpg", S02E31 - Miguel Ángel
+https://archive.org/download/amigoandfriends/S2E31-%20Miguel%20%C3%81ngel.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iFFfskrbD6FqTYr9iN1T63l17eE.jpg", S02E32 - The Milky Way (La Vía Láctea)
+https://archive.org/download/amigoandfriends/S2E32-The%20Milky%20Way.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iFFfskrbD6FqTYr9iN1T63l17eE.jpg", S02E33 - Monte Saint Michel
+https://archive.org/download/amigoandfriends/S2E33-%20Monte%20Saint%20Michel.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iFFfskrbD6FqTYr9iN1T63l17eE.jpg", S02E34 - Monte Everest
+https://archive.org/download/amigoandfriends/S2E34-%20Monte%20Everest.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iFFfskrbD6FqTYr9iN1T63l17eE.jpg", S02E35 - El Nilo
+https://archive.org/download/amigoandfriends/S2E35-%20El%20Nilo.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iFFfskrbD6FqTYr9iN1T63l17eE.jpg", S02E36 - Notre Dame
+https://archive.org/download/amigoandfriends/S2E36-Notre%20Dame.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iFFfskrbD6FqTYr9iN1T63l17eE.jpg", S02E37 - El Parthenon
+https://archive.org/download/amigoandfriends/S2E37-%20El%20Parthenon.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iFFfskrbD6FqTYr9iN1T63l17eE.jpg", S02E38 - Picasso
+https://archive.org/download/amigoandfriends/S2E38-%20Picasso.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iFFfskrbD6FqTYr9iN1T63l17eE.jpg", S02E39 - Los Planetas
+https://archive.org/download/amigoandfriends/S2E39-%20Los%20Planetas.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iFFfskrbD6FqTYr9iN1T63l17eE.jpg", S02E40 - Las Pirámides
+https://archive.org/download/amigoandfriends/S2E40-%20Las%20Piramides.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iFFfskrbD6FqTYr9iN1T63l17eE.jpg", S02E41 - Rembrandt
+https://archive.org/download/amigoandfriends/S2E41-%20Rembrandt.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iFFfskrbD6FqTYr9iN1T63l17eE.jpg", S02E42 - Tips de Seguridad
+https://archive.org/download/amigoandfriends/S2E42-%20Tips%20de%20Seguridad.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iFFfskrbD6FqTYr9iN1T63l17eE.jpg", S02E43 - Simón Bolívar
+https://archive.org/download/amigoandfriends/S2E43-%20Sim%C3%B3n%20Bolivar.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iFFfskrbD6FqTYr9iN1T63l17eE.jpg", S02E44 - Estatua de la Libertad
+https://archive.org/download/amigoandfriends/S2E44-%20Estatua%20de%20la%20Libertad.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iFFfskrbD6FqTYr9iN1T63l17eE.jpg", S02E45 - Fútbol Soccer
+https://archive.org/download/amigoandfriends/S2E45-%20F%C3%BAtbol%20Soccer.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iFFfskrbD6FqTYr9iN1T63l17eE.jpg", S02E46 - El Sol
+https://archive.org/download/amigoandfriends/S2E46-%20El%20Sol.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iFFfskrbD6FqTYr9iN1T63l17eE.jpg", S02E47 - Tenis
+https://archive.org/download/amigoandfriends/S2E47-Tenis.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iFFfskrbD6FqTYr9iN1T63l17eE.jpg", S02E48 - La Torre de Londres
+https://archive.org/download/amigoandfriends/S2E48-%20La%20Torre%20de%20Londres.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iFFfskrbD6FqTYr9iN1T63l17eE.jpg", S02E49 - El Universo
+https://archive.org/download/amigoandfriends/S2E49-%20El%20Universo.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iFFfskrbD6FqTYr9iN1T63l17eE.jpg", S02E50 - El Muro de los Lamentos
+https://archive.org/download/amigoandfriends/S2E50-%20El%20Muro%20de%20los%20Lamentos.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iFFfskrbD6FqTYr9iN1T63l17eE.jpg", S02E51 - El Parque Yellowstone
+https://archive.org/download/amigoandfriends/S2E51-%20El%20Parque%20Yelowstone.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iFFfskrbD6FqTYr9iN1T63l17eE.jpg", S02E52 - Yosemite
+https://archive.org/download/amigoandfriends/S2E52-%20Yosemite.mp4
 
 
 
+
+
+
+
+
+
+
+
+
+
+XXXX
 
