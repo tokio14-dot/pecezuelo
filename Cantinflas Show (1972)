@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTGRP;TEMPORADA 1
+#EXTGRP:TEMPORADA 1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nAsbnXKiAI6XBAvUdP79SSEslRX.jpg", S01E01 - Acapulco
 https://archive.org/download/cantinflasshow/S1E01-%20Acapulco.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nAsbnXKiAI6XBAvUdP79SSEslRX.jpg", S01E02 - Adopte un árbol
@@ -106,7 +106,7 @@ https://archive.org/download/cantinflasshow/S1E51-%20Los%20Toros.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nAsbnXKiAI6XBAvUdP79SSEslRX.jpg", S01E52 - Velazquez
 https://archive.org/download/cantinflasshow/S1E52-%20Velazquez.mp4
 
-#EXTGRP;TEMPORADA 2
+#EXTGRP:TEMPORADA 2
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iFFfskrbD6FqTYr9iN1T63l17eE.jpg", S02E01 - Alexander Graham Bell
 https://archive.org/download/amigoandfriends/S2E01-%20Alexander%20Graham%20Bell.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iFFfskrbD6FqTYr9iN1T63l17eE.jpg", S02E02 - El Amazonas
